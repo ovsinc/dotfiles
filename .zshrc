@@ -8,7 +8,7 @@ export PATH=$HOME/bin:$HOME/go/bin:/usr/local/bin:$PATH
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
 
-export NOTES_DIR="~/projects/mynotes"
+export NOTES_DIR="$HOME/projects/mynotes"
 
 export EDITOR='vim'
 
