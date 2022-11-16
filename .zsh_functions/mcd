@@ -1,0 +1,5 @@
+mkdir_cd() {
+        mkdrir -p "$1" || return
+        pushd "$1"
+}
+
